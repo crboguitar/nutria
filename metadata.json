@@ -1,0 +1,8 @@
+{
+  "name": "NutrIA - Assistente de Nutrição Familiar",
+  "description": "Um assistente inteligente para planejamento alimentar familiar, acompanhamento de saúde e organização de hábitos saudáveis, integrado com IA e focado em simplicidade.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
